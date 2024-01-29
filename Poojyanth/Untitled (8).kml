@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled</name>
+	<gx:CascadingStyle kml:id="__managed_style_09A8F0303C2E858DF6B2">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1C59AA184E2E858DF6B1">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A006D14782E858DF6B1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1C59AA184E2E858DF6B1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_09A8F0303C2E858DF6B2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0ED13F7C312E858DF69A">
+		<name>Dabur</name>
+		<gx:mid>/g/11j4sx9kss</gx:mid>
+		<gx:fid>0x390cfd41470b8a33:0xe041197a3aea8998</gx:fid>
+		<LookAt>
+			<longitude>77.21310459999999</longitude>
+			<latitude>28.6410827</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>913.6612907908644</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.21310459999999,28.64108269999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B5652AF52E85A41536">
+		<name>General Electric</name>
+		<gx:mid>/g/1tfc9kbt</gx:mid>
+		<gx:fid>0x390ce2057bffffff:0x134bb6539d9f1e4f</gx:fid>
+		<LookAt>
+			<longitude>77.20027449999999</longitude>
+			<latitude>28.5471702</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10210.36708666932</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.20027449999999,28.5471702,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0901CDB9DC2E85A77B68">
+		<name>Ap Motor Manufacturer , Luthra And Sons</name>
+		<gx:mid>/g/11fzffmj92</gx:mid>
+		<gx:fid>0x390d0309da30313f:0xbb57fb8c67bdc97d</gx:fid>
+		<LookAt>
+			<longitude>77.13327169999999</longitude>
+			<latitude>28.6607694</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>913.4714732489258</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.1332207,28.660789,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E94EED8802E85A57824">
+		<name>Bosch Limited Delhi</name>
+		<gx:mid>/g/11f57sck30</gx:mid>
+		<gx:fid>0x390cfd463037d5f3:0x9dad6754f907bacc</gx:fid>
+		<LookAt>
+			<longitude>77.2061027</longitude>
+			<latitude>28.6402386</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>913.6694270183618</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2061027,28.6402386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0139B070092E85A82F98">
+		<name>ITC MAURYA</name>
+		<gx:mid>/g/11bw3y41hc</gx:mid>
+		<gx:fid>0x390d1d403a44401d:0x9cd45b33d6c207fb</gx:fid>
+		<LookAt>
+			<longitude>77.17360100000001</longitude>
+			<latitude>28.5971673</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.0843139828218</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.17331999999999,28.5972928,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C5854BBE2E85ABC092">
+		<name>JSW Steel Limited</name>
+		<gx:mid>/g/11bzyzln3s</gx:mid>
+		<gx:fid>0x390d1deeeb5049a9:0x7f28d969a94f4f86</gx:fid>
+		<LookAt>
+			<longitude>77.1789873</longitude>
+			<latitude>28.54365210000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.5990516171095</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.1789505,28.5436055,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB987AA0D2E85B2036A">
+		<name>KJAS INDUSTRIES</name>
+		<gx:mid>/g/11s1w0yybw</gx:mid>
+		<gx:fid>0x390d0706790081cf:0x1fd5b4ae4ac04925</gx:fid>
+		<LookAt>
+			<longitude>77.08081279999999</longitude>
+			<latitude>28.7511574</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>912.5985163915187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.08081279999999,28.7511574,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08368B95F82E85B4A9A6">
+		<name>Emarc Global Industries</name>
+		<gx:mid>/g/11tsjwls01</gx:mid>
+		<gx:fid>0x390ce3dc0fe98033:0x9541935281fc5d3</gx:fid>
+		<LookAt>
+			<longitude>77.2584088</longitude>
+			<latitude>28.5420222</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6147157983</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2583733,28.54203769999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F331777A72E85B66B03">
+		<name>Delhi Pneumatic Valves Manufacturing Co Private Limited</name>
+		<gx:mid>/g/1whdgqsb</gx:mid>
+		<gx:fid>0x390ce1597b5509e5:0x729244b76cc13ab4</gx:fid>
+		<LookAt>
+			<longitude>77.26792589999999</longitude>
+			<latitude>28.5492792</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4830.963348105855</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26792589999999,28.5492792,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00472757932E85B698D7">
+		<name>National Industrial Company</name>
+		<gx:mid>/g/1tt1r1tj</gx:mid>
+		<gx:fid>0x390ce3cfe91504eb:0xd34edffa2b854bc9</gx:fid>
+		<LookAt>
+			<longitude>77.252217</longitude>
+			<latitude>28.548862</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.5489766056495</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.252217,28.548862,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0516A6F7792E85B6BE75">
+		<name>Kapoor &amp; Company</name>
+		<gx:mid>/g/1tg38gtk</gx:mid>
+		<gx:fid>0x390ce1597b5509e5:0xb7038e9eb28f384c</gx:fid>
+		<LookAt>
+			<longitude>77.26796179999999</longitude>
+			<latitude>28.536868</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.664245239902</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26796179999999,28.536868,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="062DF9A4852E85B6D6AB">
+		<name>Willard India Limited</name>
+		<gx:mid>/g/1tdncms0</gx:mid>
+		<gx:fid>0x390ce3cfe91504eb:0xa54faeb8af76e14f</gx:fid>
+		<LookAt>
+			<longitude>77.2507852</longitude>
+			<latitude>28.54720009999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4831.089592900315</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2507852,28.5472001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B258A16A82E85B6F278">
+		<name>Mz Enterprises</name>
+		<gx:mid>/g/11tf_4n0pv</gx:mid>
+		<gx:fid>0x390ce3e068e0cfff:0x4ee61563d7923f66</gx:fid>
+		<LookAt>
+			<longitude>77.2646795</longitude>
+			<latitude>28.5380753</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6526443466429</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26468009999999,28.5380774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E128152EE2E85B7310C">
+		<name>Xworkstations.com | Corporate Office</name>
+		<gx:mid>/g/11shpc765n</gx:mid>
+		<gx:fid>0x390ce366e0102e2d:0x3854ab10856a79f8</gx:fid>
+		<LookAt>
+			<longitude>77.25130299999999</longitude>
+			<latitude>28.5484445</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.552989702379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.25130299999999,28.5484445,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="040870154C2E85B752E2">
+		<name>Elmech Pneumatic Industries Pvt Ltd</name>
+		<gx:mid>/g/1thvwnh6</gx:mid>
+		<gx:fid>0x390ce1597973adb5:0x4e042da909235d4c</gx:fid>
+		<LookAt>
+			<longitude>77.27208709999999</longitude>
+			<latitude>28.5322436</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7086769775412</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27208709999999,28.53224359999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029886D9012E85B77B48">
+		<name>Cosmetics Manufacturer in india</name>
+		<gx:mid>/g/11nnlwswkc</gx:mid>
+		<gx:fid>0x390ce3cc26710647:0xae7d00e7548d6e77</gx:fid>
+		<LookAt>
+			<longitude>77.27209309999999</longitude>
+			<latitude>28.5405998</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6283851660802</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27209309999999,28.5405998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E7826B8812E85B7AC83">
+		<name>Umesh Modi Group</name>
+		<gx:mid>/g/11h1knbq80</gx:mid>
+		<gx:fid>0x390ce38954086bcf:0x7b2c73dc6581eb57</gx:fid>
+		<LookAt>
+			<longitude>77.25238329999999</longitude>
+			<latitude>28.5475125</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.5619480971538</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.25238329999999,28.5475125,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EC3F5E01B2E85B7CEFF">
+		<name>Vishwkarma Manufacturing Company Private Limited</name>
+		<gx:mid>/g/1ttdwty8</gx:mid>
+		<gx:fid>0x390ce14e15555555:0xafefbb8d11862977</gx:fid>
+		<LookAt>
+			<longitude>77.27479780000002</longitude>
+			<latitude>28.5293254</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7367121597392</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2747978,28.5293254,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FD7630972E85B822AF">
+		<name>Bliss Packaging Co</name>
+		<gx:mid>/g/11jgh5kbxs</gx:mid>
+		<gx:fid>0x390ce1c0821c6f13:0x949598cfca1ee042</gx:fid>
+		<LookAt>
+			<longitude>77.28037089999999</longitude>
+			<latitude>28.5276745</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7525712788702</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.28037089999999,28.5276745,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B76BCDEF2E85B85093">
+		<name>Lasa Industries - Solder Wire Manufacturers</name>
+		<gx:mid>/g/1tdmyx1f</gx:mid>
+		<gx:fid>0x390ce14f0d5c420f:0xf6da16af34db5ee9</gx:fid>
+		<LookAt>
+			<longitude>77.27475299999999</longitude>
+			<latitude>28.5279105</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7503042294102</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27475299999999,28.5279105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E025A45D32E85B86A39">
+		<name>AH Electronic Manufacturing Services</name>
+		<gx:mid>/g/11g5_f44v1</gx:mid>
+		<gx:fid>0x390ce151bd3a10d9:0x5bae3d4b2043ae39</gx:fid>
+		<LookAt>
+			<longitude>77.27937490000001</longitude>
+			<latitude>28.52806819999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7487893318233</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2793542,28.528105,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E0B9EEA4C2E85B8A491">
+		<name>AK Engineers &amp; Traders - EOT Crane Spare Parts | EOT Crane Components Manufacturer &amp; Exporter In Delhi. We Provide All Type Of Radio Remote Controls, Electro Hydraulic Thruster Brake, Cable Trolley, Master Controller, Limit Switch, DSL Bush Bar, Etc.</name>
+		<gx:mid>/g/11dz0tx022</gx:mid>
+		<gx:fid>0x390ce166752a937b:0x350f08042c0a3a43</gx:fid>
+		<LookAt>
+			<longitude>77.28808230000001</longitude>
+			<latitude>28.522011</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.8069708040831</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2880823,28.522011,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E45BA15EA2E85B8D159">
+		<name>A7 Technosys - PCB MANUFACTURER</name>
+		<gx:mid>/g/11f88r4wmw</gx:mid>
+		<gx:fid>0x390ce1269aa0204d:0x6c0bbfb84c0eb9c</gx:fid>
+		<LookAt>
+			<longitude>77.28314710000001</longitude>
+			<latitude>28.5249226</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7790052247473</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.28318039999999,28.52492659999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D1DE5CEC2E85B90D61">
+		<name>Wiscon Industries Limited</name>
+		<gx:mid>/g/11sc_qj87g</gx:mid>
+		<gx:fid>0x390ce15987302a5f:0xb1112d463b898027</gx:fid>
+		<LookAt>
+			<longitude>77.27498009999999</longitude>
+			<latitude>28.5271408</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7576980170021</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27498009999999,28.5271408,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D8BAFC6892E85B93220">
+		<name>Manufacturers in India - Control D Diabetes Management</name>
+		<gx:mid>/g/11g6_5jcp0</gx:mid>
+		<gx:fid>0x390ce158a1886eaf:0xf208caf4ace65858</gx:fid>
+		<LookAt>
+			<longitude>77.2705562</longitude>
+			<latitude>28.5362889</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6698096362369</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2705562,28.5362889,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C873F65682E85B9748D">
+		<name>Okhla Factory</name>
+		<gx:mid>/g/11sqkb2mz6</gx:mid>
+		<gx:fid>0x390ce140a9d66971:0x5c1daf2d82d0be55</gx:fid>
+		<LookAt>
+			<longitude>77.27264939999999</longitude>
+			<latitude>28.5305269</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7251696348349</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27264939999999,28.53052689999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0133CA339A2E85B9E9F4">
+		<name>Dabba Factory</name>
+		<gx:mid>/g/11hjc35ytf</gx:mid>
+		<gx:fid>0x390ce14f13b1e34d:0x932fa5460acaea30</gx:fid>
+		<LookAt>
+			<longitude>77.2817285</longitude>
+			<latitude>28.5281803</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7477124725142</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.28172859999999,28.5281795,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0399496C3D2E85BA0E1E">
+		<name>Jean Manufacturing</name>
+		<gx:mid>/g/1vbnmsft</gx:mid>
+		<gx:fid>0x390ce1597b5509e5:0x2b546ff161c5034f</gx:fid>
+		<LookAt>
+			<longitude>77.282493</longitude>
+			<latitude>28.530429</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7261101525745</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.282493,28.530429,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A87EDC62D2E85BA43E3">
+		<name>The Clothing Manufacturer</name>
+		<gx:mid>/g/11k_bs1f_8</gx:mid>
+		<gx:fid>0x390ce15d8a18bc0b:0xe59e48223063da30</gx:fid>
+		<LookAt>
+			<longitude>77.2635897</longitude>
+			<latitude>28.5284748</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7448834179335</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2635897,28.5284748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B6EB53A4E2E85BA7D6F">
+		<name>wire mesh-Manufacturer,supplier,Exporter &amp;Trader-Trade india.com</name>
+		<gx:mid>/g/11bzs3ntyy</gx:mid>
+		<gx:fid>0x390ce15a6864453d:0x8c5bab5257df5bfe</gx:fid>
+		<LookAt>
+			<longitude>77.2737753</longitude>
+			<latitude>28.5291421</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7384730423588</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.273774,28.5291442,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD925A96D2E85BAB834">
+		<name>mahadev steel enterprises</name>
+		<gx:mid>/g/11h80c8h4r</gx:mid>
+		<gx:fid>0x390ce32fc379d3d9:0x197dbc25b83bffd5</gx:fid>
+		<LookAt>
+			<longitude>77.2639276</longitude>
+			<latitude>28.5354227</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6781325074077</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2639276,28.5354227,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="087870C9782E85BACCC3">
+		<name>Kalka Steel</name>
+		<gx:mid>/g/12hkwnz79</gx:mid>
+		<gx:fid>0x390ce3e1d0a1f415:0x33dd9e71998e01f8</gx:fid>
+		<LookAt>
+			<longitude>77.26705799999999</longitude>
+			<latitude>28.536947</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6634861452932</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26705799999999,28.536947,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A71CAB3072E85BAE844">
+		<name>Vishwakarma Steel. febricatot</name>
+		<gx:mid>/g/1ptx88ytl</gx:mid>
+		<gx:fid>0x390ce14b87a1b2d9:0x415361152687a950</gx:fid>
+		<LookAt>
+			<longitude>77.27639599999999</longitude>
+			<latitude>28.5244863</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7831959925537</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27639499999999,28.5244878,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0904BA105B2E85BB0ADD">
+		<name>Global Steel</name>
+		<gx:mid>/g/11rsch8dvs</gx:mid>
+		<gx:fid>0x390ce15f4005aaab:0xaacbd7f5c7337a28</gx:fid>
+		<LookAt>
+			<longitude>77.26784739999999</longitude>
+			<latitude>28.5349826</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6823611188101</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26784739999999,28.5349826,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F3CEF0D72E85BB2D78">
+		<name>Ayub Steel &amp; Aluminium Works</name>
+		<gx:mid>/g/11s3zdfx8s</gx:mid>
+		<gx:fid>0x390ce1608fcdce7f:0x19c89c662ef21b1d</gx:fid>
+		<LookAt>
+			<longitude>77.2626344</longitude>
+			<latitude>28.5324632</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.706567177528</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.26260449999999,28.5324755,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01375A9BF62E85BB4DC4">
+		<name>Steel Authority Of India</name>
+		<gx:mid>/g/1ptwx_97v</gx:mid>
+		<gx:fid>0x390ce151613505fd:0x833e4322eb403c7b</gx:fid>
+		<LookAt>
+			<longitude>77.28039299999999</longitude>
+			<latitude>28.530139</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.7288961438222</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2805802,28.53022739999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08286BB45B2E85BB6839">
+		<name>Associated Steel Private Limited</name>
+		<gx:mid>/g/1pty4_j3t</gx:mid>
+		<gx:fid>0x390ce156ee67a733:0x4c4b51d9bfeedb30</gx:fid>
+		<LookAt>
+			<longitude>77.278864</longitude>
+			<latitude>28.533696</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6947228304018</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27888449999999,28.5337062,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCBCFD42A2E85BB8CB2">
+		<name>Batra Steels Private Limited</name>
+		<gx:mid>/g/1tdytrb1</gx:mid>
+		<gx:fid>0x390ce3fd5abca0a7:0xd34d8a291b4e1f07</gx:fid>
+		<LookAt>
+			<longitude>77.2758594</longitude>
+			<latitude>28.5378335</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.654967826283</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2758163,28.5378951,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090156F9C22E85BBFA61">
+		<name>Ajay Aluminium &amp; Glass Work</name>
+		<gx:mid>/g/11kc2pb1jl</gx:mid>
+		<gx:fid>0x390ce3ce61c09ce5:0x6932e2f4bad0d504</gx:fid>
+		<LookAt>
+			<longitude>77.2640201</longitude>
+			<latitude>28.5382203</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6512510194318</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.2640201,28.5382203,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FAEBAD7822E85BC384D">
+		<name>Premier Extrusions - Aluminium Collapsible Tubes</name>
+		<gx:mid>/g/12hkwnz6r</gx:mid>
+		<gx:fid>0x390ce151aaaaaaab:0x74c23881ef60b4ac</gx:fid>
+		<LookAt>
+			<longitude>77.2778205</longitude>
+			<latitude>28.5419842</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>914.6150809887207</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A006D14782E858DF6B1</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>77.27782049999999,28.54198419999999,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

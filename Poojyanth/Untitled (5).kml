@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <name>Untitled</name>
+    <StyleMap id="__managed_style_04E44064472E83EBBDB8">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#__managed_style_111526CEE32E83EBBDB8</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#__managed_style_212B66FCCE2E83EBBDB8</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark id="079AE180832E83EBBDB3">
+      <name>Untitled polygon</name>
+      <LookAt>
+        <longitude>77.2826411261213</longitude>
+        <latitude>28.5136210828543</latitude>
+        <altitude>249.705787947782</altitude>
+        <heading>-1.07441179468634</heading>
+        <tilt>27.3105151260957</tilt>
+        <range>1099.025949981</range>
+        <altitudeMode>absolute</altitudeMode>
+        <gx:fovy>34.99999999998739</gx:fovy>
+      </LookAt>
+      <styleUrl>#__managed_style_04E44064472E83EBBDB8</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.2833467838643,28.5139178576638,0
+              77.2830993696253,28.5138208950579,0
+              77.2816514615323,28.5138190078736,0
+              77.2816783703248,28.5131134247994,0
+              77.2816903104097,28.5123375301187,0
+              77.2815005299908,28.5119420308097,0
+              77.2815255634624,28.5113031631455,0
+              77.2818837448937,28.5110771594927,0
+              77.2822273667054,28.5108956457871,0
+              77.2826884813206,28.5107792783638,0
+              77.2829248592027,28.5103884869335,0
+              77.2828587930179,28.5098886244209,0
+              77.2826750577973,28.5091935961918,0
+              77.2840543781612,28.5085640599334,0
+              77.2849671633917,28.5080741149374,0
+              77.2855487991832,28.507755146714,0
+              77.2860623201271,28.507359480778,0
+              77.2859776783297,28.509538285614,0
+              77.2858923575004,28.51084023239,0
+              77.2857484982751,28.5138008592838,0
+              77.2856883924502,28.5148415680554,0
+              77.2857154204107,28.5158824006751,0
+              77.2857907052058,28.5163579556658,0
+              77.2854582689508,28.5164684827272,0
+              77.2851287216853,28.5159571720793,0
+              77.2847616373356,28.5155442716808,0
+              77.2843983436834,28.5149804009454,0
+              77.2841087223516,28.5145447788866,0
+              77.28361101374,28.5144403460834,0
+              77.2833467838643,28.5139178576638,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark id="Untitled.2">
+      <name>Okhla Landfill</name>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+              77.2814643537981,28.5137171161549,0
+              77.2834504148788,28.5137171161549,0
+              77.2833110421714,28.515110843229,0
+              77.2840079057085,28.5145881955762,0
+              77.2854016327827,28.5165045703032,0
+              77.2857849077281,28.5161909817115,0
+              77.2857500645512,28.513926175216,0
+              77.2857849077281,28.5124976049649,0
+              77.2860288099661,28.5073408147904,0
+              77.2826141786343,28.5092223463406,0
+              77.2828929240491,28.5103373279999,0
+              77.2827535513417,28.5107902892991,0
+              77.2820566878046,28.5109296620065,0
+              77.2816037265055,28.5112432505982,0
+              77.2814991969749,28.5119749573121,0
+              77.2816734128592,28.5123930754344,0
+              77.2814643537981,28.5137171161549,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <gx:CascadingStyle kml:id="__managed_style_212B66FCCE2E83EBBDB8">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&id=2000&scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+    <gx:CascadingStyle kml:id="__managed_style_111526CEE32E83EBBDB8">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&id=2000&scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"></hotSpot>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+  </Document>
+</kml>
