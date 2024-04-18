@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="./resources/ol.css">
+        <link rel="stylesheet" href="resources/fontawesome-all.min.css">
+        <link rel="stylesheet" href="./resources/ol-layerswitcher.css">
+        <link rel="stylesheet" href="./resources/qgis2web.css">
+<style>
+.search-layer {
+  top: 65px;
+  left: .5em;
+}l̥
+.ol-touch .search-layer {
+  top: 80px;
+}
+</style>
+        <style>
+        html, body {
+            background-color: #ffffff;
+        }
+        .ol-control button {
+            background-color: #f8f8f8 !important;
+            color: #000000 !important;
+            border-radius: 0px !important;
+        }
+        .ol-zoom, .geolocate, .gcd-gl-control .ol-control {
+            background-color: rgba(255,255,255,.4) !important;
+            padding: 3px !important;
+        }
+        .ol-scale-line {
+            background: none !important;
+        }
+        .ol-scale-line-inner {
+            border: 2px solid #f8f8f8 !important;
+            border-top: none !important;
+            background: rgba(255, 255, 255, 0.5) !important;
+            color: black !important;
+        }
+        </style>
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+            <div id="popup" class="ol-popup">
+                <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+                <div id="popup-content"></div>
+            </div>
+        </div>
+        <script src="resources/qgis2web_expressions.js"></script>
+        <script src="resources/polyfills.js"></script>
+        <script src="./resources/functions.js"></script>
+        <script src="./resources/ol.js"></script>
+        <script src="./resources/ol-layerswitcher.js"></script>
+        <script src="layers/DelhiBoundary_1.js"></script><script src="layers/delhi_slums_2.js"></script><script src="layers/delhi_metro_stations_3.js"></script><script src="layers/Transporttransport_4.js"></script><script src="layers/delhi_metro_oh_line_5.js"></script><script src="layers/buffered_amenities_6.js"></script><script src="layers/buffered_delhi_slums_7.js"></script><script src="layers/buffered_metro_stations_8.js"></script><script src="layers/buffered_metro_overhead_lines_9.js"></script><script src="layers/buffered_metro_stations_005_10.js"></script><script src="layers/buffered_industries_11.js"></script><script src="layers/buffered_waterways_12.js"></script><script src="layers/buffered_transport_lines_13.js"></script><script src="layers/buffered_waste_14.js"></script><script src="layers/difference_metro_stations_overhead_lines_15.js"></script><script src="layers/intersection_metro_amenities_industries_slums_16.js"></script><script src="layers/union_landuse_amenities_17.js"></script><script src="layers/processed_slums_18.js"></script><script src="layers/processed_amenities_slums_19.js"></script><script src="layers/processed_amenities_industries_slums_20.js"></script><script src="layers/processed_amenities_industries_metro_slums_21.js"></script><script src="layers/processed_amenities_industries_landuse_metro_slums_22.js"></script><script src="layers/processed_amenities_industries_metro_slums_waste_water_23.js"></script><script src="layers/processed_amenities_industries_landusage_metro_slums_transport_waste_water_24.js"></script>
+        <script src="styles/DelhiBoundary_1_style.js"></script><script src="styles/delhi_slums_2_style.js"></script><script src="styles/delhi_metro_stations_3_style.js"></script><script src="styles/Transporttransport_4_style.js"></script><script src="styles/delhi_metro_oh_line_5_style.js"></script><script src="styles/buffered_amenities_6_style.js"></script><script src="styles/buffered_delhi_slums_7_style.js"></script><script src="styles/buffered_metro_stations_8_style.js"></script><script src="styles/buffered_metro_overhead_lines_9_style.js"></script><script src="styles/buffered_metro_stations_005_10_style.js"></script><script src="styles/buffered_industries_11_style.js"></script><script src="styles/buffered_waterways_12_style.js"></script><script src="styles/buffered_transport_lines_13_style.js"></script><script src="styles/buffered_waste_14_style.js"></script><script src="styles/difference_metro_stations_overhead_lines_15_style.js"></script><script src="styles/intersection_metro_amenities_industries_slums_16_style.js"></script><script src="styles/union_landuse_amenities_17_style.js"></script><script src="styles/processed_slums_18_style.js"></script><script src="styles/processed_amenities_slums_19_style.js"></script><script src="styles/processed_amenities_industries_slums_20_style.js"></script><script src="styles/processed_amenities_industries_metro_slums_21_style.js"></script><script src="styles/processed_amenities_industries_landuse_metro_slums_22_style.js"></script><script src="styles/processed_amenities_industries_metro_slums_waste_water_23_style.js"></script><script src="styles/processed_amenities_industries_landusage_metro_slums_transport_waste_water_24_style.js"></script>
+        <script src="./layers/layers.js" type="text/javascript"></script> 
+        <script src="./resources/Autolinker.min.js"></script>
+        <script src="./resources/qgis2web.js"></script>
+    </body>
+</html>

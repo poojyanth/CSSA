@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsVectorTileConnections version="1.0">
+    <vectortile url="https://data.maptiler.com/download/WyJjNzA5MmZkYS1iZjJlLTQ5MDYtODRlNS1hMGY1OWFlMjU5ODYiLCItMSIsMTY2NDBd.ZhanCQ.z5mH3d8CasRyBupXqfNoJ65f_44/maptiler-osm-2020-02-10-v3.11-india_new-delhi.mbtiles?usage=non-commercial" zmax="14" zmin="0" http-header:referer="" password="" styleUrl="" authcfg="" username="" name="Urban Footprint" referer="" serviceType="arcgis"/>
+</qgsVectorTileConnections>
